@@ -1,0 +1,7 @@
+[package]
+name = "nebby-android-stub"
+version.workspace = true
+edition.workspace = true
+[dependencies]
+nebby-core.workspace = true
+

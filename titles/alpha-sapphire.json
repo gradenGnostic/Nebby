@@ -1,0 +1,13 @@
+{
+  "id":"000400000011C500", "name":"Pokémon Alpha Sapphire", "region":"EUR", "revision":"Rev 2",
+  "executable":"static-recomp-work/native-renderer/moon-target/release/oras-native",
+  "input":"static-recomp-work/alpha-sapphire/input/main.plaintext.cxi",
+  "build_manifest":"static-recomp-work/alpha-sapphire/native/Cargo.toml",
+  "native_profile":"static-recomp-work/alpha-sapphire/profile.json",
+  "features":[
+    {"id":"renderer","name":"Native Renderer","description":"TriAevum PICA → NRI / Vulkan.","available":true,"configurable":false,"default":true},
+    {"id":"input","name":"Native Input","description":"Host controls through native CTR input.","available":true,"configurable":false,"default":true},
+    {"id":"filesystem","name":"Native Filesystem","description":"Separate title save and content storage.","available":true,"configurable":false,"default":true},
+    {"id":"compatibility","name":"Native CTR Runtime","description":"Independent kernel, services and PICA frontend.","available":true,"configurable":false,"default":true}
+  ]
+}

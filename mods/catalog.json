@@ -1,0 +1,7 @@
+[
+ {"id":"runtime-trace","name":"Runtime Trace","description":"Verbose service diagnostics in Nebby's launch log","titles":["0004000000175E00"],"platforms":["desktop"],"available":true,"environment":{"RUST_LOG":"info,zakuro_core::services=debug"}},
+ {"id":"single-screen","name":"Single Screen","description":"Unified handheld layout • planned","titles":["0004000000175E00"],"platforms":["desktop","android"],"available":false},
+ {"id":"widescreen","name":"Widescreen","description":"Expanded camera viewport • planned","titles":["0004000000175E00"],"platforms":["desktop","android"],"available":false},
+ {"id":"60-fps","name":"60 FPS","description":"Title-aware timing patch • planned","titles":["0004000000175E00"],"platforms":["desktop"],"available":false},
+ {"id":"free-camera","name":"Free Camera","description":"Explore Alola freely • planned","titles":["0004000000175E00"],"platforms":["desktop"],"available":false}
+]

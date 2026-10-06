@@ -1,0 +1,26 @@
+[
+  {
+    "component": "native-runtime",
+    "commit": "41539af568613070bea55016175fe5534181baad",
+    "tracked_local_changes": true,
+    "scope": "Source origin; exported tree hashes are recorded separately, not a claim of pristine upstream binaries"
+  },
+  {
+    "component": "triaevum",
+    "commit": "1e87f74992448df710d9669df4e974a43d536379",
+    "tracked_local_changes": true,
+    "scope": "Source origin; exported tree hashes are recorded separately, not a claim of pristine upstream binaries"
+  },
+  {
+    "component": "3dsrecomp",
+    "commit": "643d7f1ecc9a6cebc2e4d9f4343620613ed4cbc1",
+    "tracked_local_changes": false,
+    "scope": "Source origin; exported tree hashes are recorded separately, not a claim of pristine upstream binaries"
+  },
+  {
+    "component": "zakuro-reference",
+    "commit": "aae66a78dff56e02a1d0b2fd4f01e367180fd110",
+    "tracked_local_changes": true,
+    "scope": "Source origin; exported tree hashes are recorded separately, not a claim of pristine upstream binaries"
+  }
+]

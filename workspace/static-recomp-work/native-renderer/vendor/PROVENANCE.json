@@ -1,0 +1,75 @@
+[
+  {
+    "name": "nri",
+    "commit": "4b485316463969f182db15e67aad2aec2f40a3d7",
+    "declared_source_url": null,
+    "local_changes": [
+      " M CMakeLists.txt",
+      " M Include/NRIDescs.h",
+      " M Source/Shared/UpscalerInterface.hpp",
+      " M Source/VK/CommandBufferVK.hpp",
+      " M Source/VK/PipelineLayoutVK.h",
+      " M Source/VK/PipelineLayoutVK.hpp",
+      " M Source/VK/PipelineVK.h",
+      " M Source/VK/PipelineVK.hpp",
+      " M Source/Validation/CommandBufferVal.hpp",
+      "?? Source/VK/DynamicPipelineStateVK.h",
+      "?? Source/VK/GraphicsPipelineLibrariesVK.h"
+    ],
+    "source_files": 251,
+    "source_tree_sha256": "58d213175188e5ab5d2116ad0a66f062408443ef92f93f38c404092ffdf616f7"
+  },
+  {
+    "name": "prism",
+    "commit": "1de054450e7b3c5f777d2e3dfcb228ad120c329d",
+    "declared_source_url": null,
+    "local_changes": [],
+    "source_files": 32,
+    "source_tree_sha256": "136cb5bdcfc9af3cb9c51867dd0d08c916e30f339c45f1da4d24b787a82675d8"
+  },
+  {
+    "name": "imgui",
+    "commit": "4806a1924ff6181180bf5e4b8b79ab4394118875",
+    "declared_source_url": null,
+    "local_changes": [
+      " M backends/imgui_impl_metal.mm",
+      " M backends/imgui_impl_sdl2.cpp",
+      " M docs/CHANGELOG.txt",
+      " M imconfig.h"
+    ],
+    "source_files": 243,
+    "source_tree_sha256": "3d11e95772d5eed19a0ef62b4dad3faa9530088c9036db1abc01b52fe2185f39"
+  },
+  {
+    "name": "monocypher",
+    "commit": "0d85f98c9d9b0227e42cf795cb527dff372b40a4",
+    "declared_source_url": null,
+    "local_changes": [],
+    "source_files": 161,
+    "source_tree_sha256": "c36d2a2805b0e6aaeceaceae9bea10d8683ecd9ad1c8cb4d89f633058e6b942d"
+  },
+  {
+    "name": "threadpool",
+    "commit": "097aa718f25d44315cadb80b407144ad455ee4f9",
+    "declared_source_url": null,
+    "local_changes": [],
+    "source_files": 16,
+    "source_tree_sha256": "fc59dcdf4c0e703f2031de887433d92fa7c0994f25136c1881b286c388e7f7d9"
+  },
+  {
+    "name": "vma",
+    "commit": null,
+    "declared_source_url": null,
+    "local_changes": [],
+    "source_files": 271,
+    "source_tree_sha256": "892976c2b790896afe8e73c05eeb787ba9d8b169f6ebe12be19502d130f54136"
+  },
+  {
+    "name": "vulkan_headers",
+    "commit": null,
+    "declared_source_url": null,
+    "local_changes": [],
+    "source_files": 88,
+    "source_tree_sha256": "6c09ef6bc52ca4f070ca7a4263cec413674eeab394d489e7ec3073c1ccb8dad2"
+  }
+]

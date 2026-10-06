@@ -1,0 +1,10 @@
+{
+  "id": "modern-camera",
+  "name": "Modern Camera",
+  "description": "Mouse/right-stick orbit, follow camera and camera-relative movement. Requires a camera-enabled native build.",
+  "titles": ["0004000000175E00"],
+  "platforms": ["desktop"],
+  "available": true,
+  "environment": {},
+  "revisions": ["1.0"]
+}

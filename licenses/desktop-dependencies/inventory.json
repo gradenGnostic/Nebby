@@ -1,0 +1,1649 @@
+[
+  {
+    "library": "libFLAC.so.12",
+    "sha256": "40737272fd641e26bcca5cac2a08b65bda66b2bc2d6037b38b1d2316d126d43d",
+    "build_id": "656c89a8e79a5a8febfe06bb78d75085f1cfc30b",
+    "notice_packages": [
+      "libflac12t64"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libflac12t64:amd64",
+        "binary_version": "1.4.3+ds-2.1ubuntu2",
+        "source_package": "flac",
+        "source_version": "1.4.3+ds-2.1ubuntu2",
+        "installed_build_id": "656c89a8e79a5a8febfe06bb78d75085f1cfc30b",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libflac12t64:amd64",
+        "binary_version": "1.4.3+ds-2.1ubuntu2",
+        "source_package": "flac",
+        "source_version": "1.4.3+ds-2.1ubuntu2",
+        "installed_build_id": "656c89a8e79a5a8febfe06bb78d75085f1cfc30b",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libGLdispatch.so.0",
+    "sha256": "87c9b134145ddf44a8a3abad7e325b521f46faf79213c4a0099860c91db14fac",
+    "build_id": "4ee95626201c900afa8af1cb3e983f1405d85d3c",
+    "notice_packages": [
+      "libglvnd0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libglvnd0:amd64",
+        "binary_version": "1.7.0-1build1",
+        "source_package": "libglvnd",
+        "source_version": "1.7.0-1build1",
+        "installed_build_id": "4ee95626201c900afa8af1cb3e983f1405d85d3c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libglvnd0:amd64",
+        "binary_version": "1.7.0-1build1",
+        "source_package": "libglvnd",
+        "source_version": "1.7.0-1build1",
+        "installed_build_id": "4ee95626201c900afa8af1cb3e983f1405d85d3c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libOpenGL.so.0",
+    "sha256": "19c5af5daf3978d5944f1b9aa2da0e94ce3d81fb82b4c920994a618049fe7980",
+    "build_id": "9933ffa271313a4ccaec087cbe89901e0dbc478f",
+    "notice_packages": [
+      "libopengl0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libopengl0:amd64",
+        "binary_version": "1.7.0-1build1",
+        "source_package": "libglvnd",
+        "source_version": "1.7.0-1build1",
+        "installed_build_id": "9933ffa271313a4ccaec087cbe89901e0dbc478f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libopengl0:amd64",
+        "binary_version": "1.7.0-1build1",
+        "source_package": "libglvnd",
+        "source_version": "1.7.0-1build1",
+        "installed_build_id": "9933ffa271313a4ccaec087cbe89901e0dbc478f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libSDL2-2.0.so.0",
+    "sha256": "235c3a9316b7e6fed4c890def9033d8fe03bb6b75917224c11bc0f56b74a4f08",
+    "build_id": "832936b3309cbf275a4c7cb4f642c4fea4cbf33f",
+    "notice_packages": [
+      "libsdl2-2.0-0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libsdl2-2.0-0:amd64",
+        "binary_version": "2.30.0+dfsg-1ubuntu3.1",
+        "source_package": "libsdl2",
+        "source_version": "2.30.0+dfsg-1ubuntu3.1",
+        "installed_build_id": "832936b3309cbf275a4c7cb4f642c4fea4cbf33f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libsdl2-2.0-0:amd64",
+        "binary_version": "2.30.0+dfsg-1ubuntu3.1",
+        "source_package": "libsdl2",
+        "source_version": "2.30.0+dfsg-1ubuntu3.1",
+        "installed_build_id": "832936b3309cbf275a4c7cb4f642c4fea4cbf33f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libX11-xcb.so.1",
+    "sha256": "0813ffde0d00db5e4a04354e8b69229dec83a8c76ae1a39630f8171141462097",
+    "build_id": "7568c0482410a5be67b8e7753afc2656ce9dd22c",
+    "notice_packages": [
+      "libx11-xcb1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libx11-xcb1:amd64",
+        "binary_version": "2:1.8.7-1build1",
+        "source_package": "libx11",
+        "source_version": "2:1.8.7-1build1",
+        "installed_build_id": "7568c0482410a5be67b8e7753afc2656ce9dd22c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libx11-xcb1:amd64",
+        "binary_version": "2:1.8.7-1build1",
+        "source_package": "libx11",
+        "source_version": "2:1.8.7-1build1",
+        "installed_build_id": "7568c0482410a5be67b8e7753afc2656ce9dd22c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libX11.so.6",
+    "sha256": "608826593fde2b87961678c27ebf4b2c140748fc6143b77fb46a63a19d9af894",
+    "build_id": "4cb55b1a3e1fcb63bde78cbab338d576fc43e330",
+    "notice_packages": [
+      "libx11-6"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libx11-6:amd64",
+        "binary_version": "2:1.8.7-1build1",
+        "source_package": "libx11",
+        "source_version": "2:1.8.7-1build1",
+        "installed_build_id": "4cb55b1a3e1fcb63bde78cbab338d576fc43e330",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libx11-6:amd64",
+        "binary_version": "2:1.8.7-1build1",
+        "source_package": "libx11",
+        "source_version": "2:1.8.7-1build1",
+        "installed_build_id": "4cb55b1a3e1fcb63bde78cbab338d576fc43e330",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXau.so.6",
+    "sha256": "bfed70f8491eb7982a6a4385122b13f387f7088e2b906e17d7100bfcdd393d44",
+    "build_id": "dc0924fcb74a62304d899358e5deb09af5b2c92c",
+    "notice_packages": [
+      "libxau6"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxau6:amd64",
+        "binary_version": "1:1.0.9-1build6",
+        "source_package": "libxau",
+        "source_version": "1:1.0.9-1build6",
+        "installed_build_id": "dc0924fcb74a62304d899358e5deb09af5b2c92c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxau6:amd64",
+        "binary_version": "1:1.0.9-1build6",
+        "source_package": "libxau",
+        "source_version": "1:1.0.9-1build6",
+        "installed_build_id": "dc0924fcb74a62304d899358e5deb09af5b2c92c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXcursor.so.1",
+    "sha256": "02243b2f21d9ada3cfae4b917b8ce2637d07cf16e98a555f9a561defc09cc547",
+    "build_id": "cb35a1e70bf5fa97ec0823632a0b515829f9dddb",
+    "notice_packages": [
+      "libxcursor1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxcursor1:amd64",
+        "binary_version": "1:1.2.1-1build1",
+        "source_package": "libxcursor",
+        "source_version": "1:1.2.1-1build1",
+        "installed_build_id": "cb35a1e70bf5fa97ec0823632a0b515829f9dddb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxcursor1:amd64",
+        "binary_version": "1:1.2.1-1build1",
+        "source_package": "libxcursor",
+        "source_version": "1:1.2.1-1build1",
+        "installed_build_id": "cb35a1e70bf5fa97ec0823632a0b515829f9dddb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXdmcp.so.6",
+    "sha256": "30d83b9785eb482a75d9e58d860ddd0f88f4ed9c19c34710ccfba952c7b1072a",
+    "build_id": "356994eb4f8a19faf65c920fe3ca68383ee141ed",
+    "notice_packages": [
+      "libxdmcp6"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxdmcp6:amd64",
+        "binary_version": "1:1.1.3-0ubuntu6",
+        "source_package": "libxdmcp",
+        "source_version": "1:1.1.3-0ubuntu6",
+        "installed_build_id": "356994eb4f8a19faf65c920fe3ca68383ee141ed",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxdmcp6:amd64",
+        "binary_version": "1:1.1.3-0ubuntu6",
+        "source_package": "libxdmcp",
+        "source_version": "1:1.1.3-0ubuntu6",
+        "installed_build_id": "356994eb4f8a19faf65c920fe3ca68383ee141ed",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXext.so.6",
+    "sha256": "296474afc8716c8363a75390ea7527a326d5d8a60a2f09881e4677484e7cccfb",
+    "build_id": "8e7cd9c32cd25ace585ae6a54327af78256f28cc",
+    "notice_packages": [
+      "libxext6"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxext6:amd64",
+        "binary_version": "2:1.3.4-1build2",
+        "source_package": "libxext",
+        "source_version": "2:1.3.4-1build2",
+        "installed_build_id": "8e7cd9c32cd25ace585ae6a54327af78256f28cc",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxext6:amd64",
+        "binary_version": "2:1.3.4-1build2",
+        "source_package": "libxext",
+        "source_version": "2:1.3.4-1build2",
+        "installed_build_id": "8e7cd9c32cd25ace585ae6a54327af78256f28cc",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXfixes.so.3",
+    "sha256": "6f4a93ecfe3258cb35f404981de71b807dd896c2ef452e0e8c0ef389c2c48d25",
+    "build_id": "98ddd7258e23c006310ff8ac9602b0f9880bb5c2",
+    "notice_packages": [
+      "libxfixes3"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxfixes3:amd64",
+        "binary_version": "1:6.0.0-2build1",
+        "source_package": "libxfixes",
+        "source_version": "1:6.0.0-2build1",
+        "installed_build_id": "98ddd7258e23c006310ff8ac9602b0f9880bb5c2",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxfixes3:amd64",
+        "binary_version": "1:6.0.0-2build1",
+        "source_package": "libxfixes",
+        "source_version": "1:6.0.0-2build1",
+        "installed_build_id": "98ddd7258e23c006310ff8ac9602b0f9880bb5c2",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXi.so.6",
+    "sha256": "5e7749f44d969bdce1fbc1566f4e06e8f10298c99754de2ac1d000d18f6d65af",
+    "build_id": "5af9ea33cab01e12e98066c5faf44428409b45b0",
+    "notice_packages": [
+      "libxi6"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxi6:amd64",
+        "binary_version": "2:1.8.1-1build1",
+        "source_package": "libxi",
+        "source_version": "2:1.8.1-1build1",
+        "installed_build_id": "5af9ea33cab01e12e98066c5faf44428409b45b0",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxi6:amd64",
+        "binary_version": "2:1.8.1-1build1",
+        "source_package": "libxi",
+        "source_version": "2:1.8.1-1build1",
+        "installed_build_id": "5af9ea33cab01e12e98066c5faf44428409b45b0",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXrandr.so.2",
+    "sha256": "48cbfc197af8d573274a1ffeebed9c175b3f016cdd2d732fe46fbb8864e8ac5e",
+    "build_id": "f9a493432c4edf02a40d04efa22691e49e3a7721",
+    "notice_packages": [
+      "libxrandr2"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxrandr2:amd64",
+        "binary_version": "2:1.5.2-2build1",
+        "source_package": "libxrandr",
+        "source_version": "2:1.5.2-2build1",
+        "installed_build_id": "f9a493432c4edf02a40d04efa22691e49e3a7721",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxrandr2:amd64",
+        "binary_version": "2:1.5.2-2build1",
+        "source_package": "libxrandr",
+        "source_version": "2:1.5.2-2build1",
+        "installed_build_id": "f9a493432c4edf02a40d04efa22691e49e3a7721",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXrender.so.1",
+    "sha256": "467aa9f3669012dfd0dac4afed28d79320f78c2db4ddad4d46e7cc9e320324bd",
+    "build_id": "e821feb66aa550e614a0eea45ff19ef30702fa14",
+    "notice_packages": [
+      "libxrender1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxrender1:amd64",
+        "binary_version": "1:0.9.10-1.1build1",
+        "source_package": "libxrender",
+        "source_version": "1:0.9.10-1.1build1",
+        "installed_build_id": "e821feb66aa550e614a0eea45ff19ef30702fa14",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxrender1:amd64",
+        "binary_version": "1:0.9.10-1.1build1",
+        "source_package": "libxrender",
+        "source_version": "1:0.9.10-1.1build1",
+        "installed_build_id": "e821feb66aa550e614a0eea45ff19ef30702fa14",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libXss.so.1",
+    "sha256": "be0bed64841fdf4e55006bfafaeda99ad43b148fcc344c382889576b23bb5002",
+    "build_id": "56e74a2eed3b17fa7b1beefda957f984d7c436eb",
+    "notice_packages": [
+      "libxss1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxss1:amd64",
+        "binary_version": "1:1.2.3-1build3",
+        "source_package": "libxss",
+        "source_version": "1:1.2.3-1build3",
+        "installed_build_id": "56e74a2eed3b17fa7b1beefda957f984d7c436eb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxss1:amd64",
+        "binary_version": "1:1.2.3-1build3",
+        "source_package": "libxss",
+        "source_version": "1:1.2.3-1build3",
+        "installed_build_id": "56e74a2eed3b17fa7b1beefda957f984d7c436eb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libapparmor.so.1",
+    "sha256": "fad7bdb6ef2d3a4093474c4e5ee834074b309edd464d7ebe022a19f84a854a82",
+    "build_id": "90e2b9b7b38a106ed27f61027c02b55ba84fe679",
+    "notice_packages": [
+      "libapparmor1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libapparmor1:amd64",
+        "binary_version": "4.0.1really4.0.1-0ubuntu0.24.04.7",
+        "source_package": "apparmor",
+        "source_version": "4.0.1really4.0.1-0ubuntu0.24.04.7",
+        "installed_build_id": "90e2b9b7b38a106ed27f61027c02b55ba84fe679",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libapparmor1:amd64",
+        "binary_version": "4.0.1really4.0.1-0ubuntu0.24.04.7",
+        "source_package": "apparmor",
+        "source_version": "4.0.1really4.0.1-0ubuntu0.24.04.7",
+        "installed_build_id": "90e2b9b7b38a106ed27f61027c02b55ba84fe679",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libasound.so.2",
+    "sha256": "c0963b07c8b2bd757a48dd006e455f0a761ad9abac2bff5c8ca90210e743acc8",
+    "build_id": "a913d173634b402eb4a5ba4fa71f4d4bc6ff24da",
+    "notice_packages": [
+      "libasound2t64"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libasound2t64:amd64",
+        "binary_version": "1.2.11-1ubuntu0.3",
+        "source_package": "alsa-lib",
+        "source_version": "1.2.11-1ubuntu0.3",
+        "installed_build_id": "a913d173634b402eb4a5ba4fa71f4d4bc6ff24da",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libasound2t64:amd64",
+        "binary_version": "1.2.11-1ubuntu0.3",
+        "source_package": "alsa-lib",
+        "source_version": "1.2.11-1ubuntu0.3",
+        "installed_build_id": "a913d173634b402eb4a5ba4fa71f4d4bc6ff24da",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libasyncns.so.0",
+    "sha256": "384c9b9a43ab3c469961c8a2a5f245d8a9f2c1f40efe56aa0614e2fb62b31d4a",
+    "build_id": "495ae009a421b8d3fbb23cc96ef5dae4f5184749",
+    "notice_packages": [
+      "libasyncns0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libasyncns0:amd64",
+        "binary_version": "0.8-6build4",
+        "source_package": "libasyncns",
+        "source_version": "0.8-6build4",
+        "installed_build_id": "495ae009a421b8d3fbb23cc96ef5dae4f5184749",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libasyncns0:amd64",
+        "binary_version": "0.8-6build4",
+        "source_package": "libasyncns",
+        "source_version": "0.8-6build4",
+        "installed_build_id": "495ae009a421b8d3fbb23cc96ef5dae4f5184749",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libbsd.so.0",
+    "sha256": "8d5643f0aa4755f47f5bed23cb7ad2f32550e27245a769c7d9fbfe005137245b",
+    "build_id": "26bdff9e77c850738b18ae25eca496fa7f4dd05c",
+    "notice_packages": [
+      "libbsd0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libbsd0:amd64",
+        "binary_version": "0.12.1-1build1.1",
+        "source_package": "libbsd",
+        "source_version": "0.12.1-1build1.1",
+        "installed_build_id": "26bdff9e77c850738b18ae25eca496fa7f4dd05c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libbsd0:amd64",
+        "binary_version": "0.12.1-1build1.1",
+        "source_package": "libbsd",
+        "source_version": "0.12.1-1build1.1",
+        "installed_build_id": "26bdff9e77c850738b18ae25eca496fa7f4dd05c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libbz2.so.1.0",
+    "sha256": "75355c47c02829706f010b240edee79f353a52f4f109b2fee045dd3db990183c",
+    "build_id": "51ac1a227e1c3c5c449b6bcf8eb7323a3cbf8642",
+    "notice_packages": [
+      "libbz2-1.0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libbz2-1.0:amd64",
+        "binary_version": "1.0.8-5.1ubuntu0.1",
+        "source_package": "bzip2",
+        "source_version": "1.0.8-5.1ubuntu0.1",
+        "installed_build_id": "51ac1a227e1c3c5c449b6bcf8eb7323a3cbf8642",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libbz2-1.0:amd64",
+        "binary_version": "1.0.8-5.1ubuntu0.1",
+        "source_package": "bzip2",
+        "source_version": "1.0.8-5.1ubuntu0.1",
+        "installed_build_id": "51ac1a227e1c3c5c449b6bcf8eb7323a3cbf8642",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libcap.so.2",
+    "sha256": "6f1b1a3c82dc0950e8f7b7f47928fd3ddf674fcdbbdaa5141df41781fdd5b2a7",
+    "build_id": "7a7c2bbc541071e68f1c74f691d5ffba03bfb5ad",
+    "notice_packages": [
+      "libcap2"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libcap2:amd64",
+        "binary_version": "1:2.66-5ubuntu2.4",
+        "source_package": "libcap2",
+        "source_version": "1:2.66-5ubuntu2.4",
+        "installed_build_id": "7a7c2bbc541071e68f1c74f691d5ffba03bfb5ad",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libcap2:amd64",
+        "binary_version": "1:2.66-5ubuntu2.4",
+        "source_package": "libcap2",
+        "source_version": "1:2.66-5ubuntu2.4",
+        "installed_build_id": "7a7c2bbc541071e68f1c74f691d5ffba03bfb5ad",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libcrypto.so.3",
+    "sha256": "1010b4df788f6aa40f1b1fc92e2c46ac3203e6c5d9f29a0d223b971fa59e893a",
+    "build_id": "9990eedfbc65eb5cf5d8f3953cd8b8c4f704be71",
+    "notice_packages": [
+      "libssl3t64"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libssl3t64:amd64",
+        "binary_version": "3.0.13-0ubuntu3.15",
+        "source_package": "openssl",
+        "source_version": "3.0.13-0ubuntu3.15",
+        "installed_build_id": "9990eedfbc65eb5cf5d8f3953cd8b8c4f704be71",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libssl3t64:amd64",
+        "binary_version": "3.0.13-0ubuntu3.15",
+        "source_package": "openssl",
+        "source_version": "3.0.13-0ubuntu3.15",
+        "installed_build_id": "9990eedfbc65eb5cf5d8f3953cd8b8c4f704be71",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libdbus-1.so.3",
+    "sha256": "126679b1a01ade299cc28a6dffe399c92995740b01be96ba6778fea361fabb40",
+    "build_id": "47829078e4267099473c6cf5f5742f16ccb2644d",
+    "notice_packages": [
+      "libdbus-1-3"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libdbus-1-3:amd64",
+        "binary_version": "1.14.10-4ubuntu4.1",
+        "source_package": "dbus",
+        "source_version": "1.14.10-4ubuntu4.1",
+        "installed_build_id": "47829078e4267099473c6cf5f5742f16ccb2644d",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libdbus-1-3:amd64",
+        "binary_version": "1.14.10-4ubuntu4.1",
+        "source_package": "dbus",
+        "source_version": "1.14.10-4ubuntu4.1",
+        "installed_build_id": "47829078e4267099473c6cf5f5742f16ccb2644d",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libdecor-0.so.0",
+    "sha256": "ce9e39c325856cc272f5b0c7e2db0b19b38fa80176d67cc0df37a6d3374b1d90",
+    "build_id": "ae7a5e9ec09a03e89654275206a95d8fb62c3242",
+    "notice_packages": [
+      "libdecor-0-0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libdecor-0-0:amd64",
+        "binary_version": "0.2.2-1build2",
+        "source_package": "libdecor-0",
+        "source_version": "0.2.2-1build2",
+        "installed_build_id": "ae7a5e9ec09a03e89654275206a95d8fb62c3242",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libdecor-0-0:amd64",
+        "binary_version": "0.2.2-1build2",
+        "source_package": "libdecor-0",
+        "source_version": "0.2.2-1build2",
+        "installed_build_id": "ae7a5e9ec09a03e89654275206a95d8fb62c3242",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libdrm.so.2",
+    "sha256": "83e84e4f5ff1836164eb67c5668dd4f665ffcba7b92ce6c18bd9e88b75455e68",
+    "build_id": "26e82ae01a35587c2bcda2c9b3e4be60c5daf97c",
+    "notice_packages": [
+      "libdrm2"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libdrm2:amd64",
+        "binary_version": "2.4.125-1ubuntu0.1~24.04.2",
+        "source_package": "libdrm",
+        "source_version": "2.4.125-1ubuntu0.1~24.04.2",
+        "installed_build_id": "26e82ae01a35587c2bcda2c9b3e4be60c5daf97c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libdrm2:amd64",
+        "binary_version": "2.4.125-1ubuntu0.1~24.04.2",
+        "source_package": "libdrm",
+        "source_version": "2.4.125-1ubuntu0.1~24.04.2",
+        "installed_build_id": "26e82ae01a35587c2bcda2c9b3e4be60c5daf97c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libexpat.so.1",
+    "sha256": "fdea79cbe8720f2c7bd538765d0a2c6e69eba53f17a5e5c498b13295c4640610",
+    "build_id": "8ae4253012c773ce4f3ceb73efbd6dbd47fd9510",
+    "notice_packages": [
+      "libexpat1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libexpat1:amd64",
+        "binary_version": "2.6.1-2ubuntu0.6",
+        "source_package": "expat",
+        "source_version": "2.6.1-2ubuntu0.6",
+        "installed_build_id": "8ae4253012c773ce4f3ceb73efbd6dbd47fd9510",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libexpat1:amd64",
+        "binary_version": "2.6.1-2ubuntu0.6",
+        "source_package": "expat",
+        "source_version": "2.6.1-2ubuntu0.6",
+        "installed_build_id": "8ae4253012c773ce4f3ceb73efbd6dbd47fd9510",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libffi.so.8",
+    "sha256": "816ef4990ae44c2a0f9201a7ba641a46fd7506542ee709c112ac1a6337ebce4c",
+    "build_id": "c9149b6e99105aa4321ddd4a10ee4b90de7b7d49",
+    "notice_packages": [
+      "libffi8"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libffi8:amd64",
+        "binary_version": "3.4.6-1build1",
+        "source_package": "libffi",
+        "source_version": "3.4.6-1build1",
+        "installed_build_id": "c9149b6e99105aa4321ddd4a10ee4b90de7b7d49",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libffi8:amd64",
+        "binary_version": "3.4.6-1build1",
+        "source_package": "libffi",
+        "source_version": "3.4.6-1build1",
+        "installed_build_id": "c9149b6e99105aa4321ddd4a10ee4b90de7b7d49",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libfmt.so.9",
+    "sha256": "7c0ab362e375c974c463d9a9f743ff05d092f03f86607b6ff89f61301d4c9520",
+    "build_id": "32c1c6ea0ab8f91911829fccb52e4a3a11f3cc55",
+    "notice_packages": [
+      "libfmt9"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libfmt9",
+        "binary_version": "9.1.0+ds1-2",
+        "source_package": "fmtlib",
+        "source_version": "9.1.0+ds1-2",
+        "deb_sha256": "0a9dd337aea7ae59aba44994a92dd2780365b534a714518477c4e906f0efd297",
+        "archive_build_id": "32c1c6ea0ab8f91911829fccb52e4a3a11f3cc55",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libgbm.so.1",
+    "sha256": "f05a9055ac60b03fc5b3d5ffb08cb0a67240143e6ffb9c9d370e5efbadaeca87",
+    "build_id": "7671728adba8f969b3076efa57f1e01d1ae918d3",
+    "notice_packages": [
+      "libgbm1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libgbm1:amd64",
+        "binary_version": "25.2.8-0ubuntu0.24.04.2",
+        "source_package": "mesa",
+        "source_version": "25.2.8-0ubuntu0.24.04.2",
+        "installed_build_id": "7671728adba8f969b3076efa57f1e01d1ae918d3",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libgbm1:amd64",
+        "binary_version": "25.2.8-0ubuntu0.24.04.2",
+        "source_package": "mesa",
+        "source_version": "25.2.8-0ubuntu0.24.04.2",
+        "installed_build_id": "7671728adba8f969b3076efa57f1e01d1ae918d3",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libgcc_s.so.1",
+    "sha256": "71d8e1728b348cc7aa63128156523409d5a38e75b2c2ab3cf7070dbd24d8beaa",
+    "build_id": "58736497cba1173fec6ad05c75e996dacefd1def",
+    "notice_packages": [
+      "libgcc-s1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libgcc-s1:amd64",
+        "binary_version": "14.2.0-4ubuntu2~24.04.1",
+        "source_package": "gcc-14",
+        "source_version": "14.2.0-4ubuntu2~24.04.1",
+        "installed_build_id": "58736497cba1173fec6ad05c75e996dacefd1def",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libgcc-s1:amd64",
+        "binary_version": "14.2.0-4ubuntu2~24.04.1",
+        "source_package": "gcc-14",
+        "source_version": "14.2.0-4ubuntu2~24.04.1",
+        "installed_build_id": "58736497cba1173fec6ad05c75e996dacefd1def",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libgcrypt.so.20",
+    "sha256": "d9a3271d3411f078a8ffc5219e0849979546de71247d1b9adc43bb1863c4a147",
+    "build_id": "062f71ffcaf4b777c9b3c9eafccf81a43f93089f",
+    "notice_packages": [
+      "libgcrypt20"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libgcrypt20:amd64",
+        "binary_version": "1.10.3-2ubuntu0.2",
+        "source_package": "libgcrypt20",
+        "source_version": "1.10.3-2ubuntu0.2",
+        "installed_build_id": "062f71ffcaf4b777c9b3c9eafccf81a43f93089f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libgcrypt20:amd64",
+        "binary_version": "1.10.3-2ubuntu0.2",
+        "source_package": "libgcrypt20",
+        "source_version": "1.10.3-2ubuntu0.2",
+        "installed_build_id": "062f71ffcaf4b777c9b3c9eafccf81a43f93089f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libgpg-error.so.0",
+    "sha256": "97acd5eaa2cea93cbc0ac9f5215628e5054d48c9bb70fb9d3e6c6187aeabe4c8",
+    "build_id": "12f4e2fc2fec8f85be17a2658900e7c620da7d6c",
+    "notice_packages": [
+      "libgpg-error0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libgpg-error0:amd64",
+        "binary_version": "1.47-3build2.1",
+        "source_package": "libgpg-error",
+        "source_version": "1.47-3build2.1",
+        "installed_build_id": "12f4e2fc2fec8f85be17a2658900e7c620da7d6c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libgpg-error0:amd64",
+        "binary_version": "1.47-3build2.1",
+        "source_package": "libgpg-error",
+        "source_version": "1.47-3build2.1",
+        "installed_build_id": "12f4e2fc2fec8f85be17a2658900e7c620da7d6c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "liblz4.so.1",
+    "sha256": "3d6ca22093335a0ef23a2d88139c5115da74429e7050c0ff6bd2fa7810772a48",
+    "build_id": "7e7763ed9e5fc5b3953ea3b6e84e3ec39f494d16",
+    "notice_packages": [
+      "liblz4-1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "liblz4-1:amd64",
+        "binary_version": "1.9.4-1build1.1",
+        "source_package": "lz4",
+        "source_version": "1.9.4-1build1.1",
+        "installed_build_id": "7e7763ed9e5fc5b3953ea3b6e84e3ec39f494d16",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "liblz4-1:amd64",
+        "binary_version": "1.9.4-1build1.1",
+        "source_package": "lz4",
+        "source_version": "1.9.4-1build1.1",
+        "installed_build_id": "7e7763ed9e5fc5b3953ea3b6e84e3ec39f494d16",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "liblzma.so.5",
+    "sha256": "2b14abb7ebc7114d1e7e33a64f16446bbe26206e8ea4b6468107867aab9fa692",
+    "build_id": "78d7220824dfcd33ee3d68ae94e1d58e0bebdbe0",
+    "notice_packages": [
+      "liblzma5"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "liblzma5:amd64",
+        "binary_version": "5.6.1+really5.4.5-1ubuntu0.3",
+        "source_package": "xz-utils",
+        "source_version": "5.6.1+really5.4.5-1ubuntu0.3",
+        "installed_build_id": "78d7220824dfcd33ee3d68ae94e1d58e0bebdbe0",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "liblzma5:amd64",
+        "binary_version": "5.6.1+really5.4.5-1ubuntu0.3",
+        "source_package": "xz-utils",
+        "source_version": "5.6.1+really5.4.5-1ubuntu0.3",
+        "installed_build_id": "78d7220824dfcd33ee3d68ae94e1d58e0bebdbe0",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libmd.so.0",
+    "sha256": "d5dcd2f4af9949bd66561a9e0d555c1789f22e7fd58453c6eae3cd9f50846bd7",
+    "build_id": "ac601ac03ef47b238aca87a4f4a133eb0f06b82e",
+    "notice_packages": [
+      "libmd0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libmd0:amd64",
+        "binary_version": "1.1.0-2build1.1",
+        "source_package": "libmd",
+        "source_version": "1.1.0-2build1.1",
+        "installed_build_id": "ac601ac03ef47b238aca87a4f4a133eb0f06b82e",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libmd0:amd64",
+        "binary_version": "1.1.0-2build1.1",
+        "source_package": "libmd",
+        "source_version": "1.1.0-2build1.1",
+        "installed_build_id": "ac601ac03ef47b238aca87a4f4a133eb0f06b82e",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libmp3lame.so.0",
+    "sha256": "d535292c8b11f77c78b317e0c282d0a4c7793e6791e1f37177adc2f0f9da8412",
+    "build_id": "632b84d3b6c62f9cd76066b707d6622f322d10de",
+    "notice_packages": [
+      "libmp3lame0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libmp3lame0:amd64",
+        "binary_version": "3.100-6build1",
+        "source_package": "lame",
+        "source_version": "3.100-6build1",
+        "installed_build_id": "632b84d3b6c62f9cd76066b707d6622f322d10de",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libmp3lame0:amd64",
+        "binary_version": "3.100-6build1",
+        "source_package": "lame",
+        "source_version": "3.100-6build1",
+        "installed_build_id": "632b84d3b6c62f9cd76066b707d6622f322d10de",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libmpg123.so.0",
+    "sha256": "3ce0d3d36ebeec36a2457ccbdf80d35dadaa3563b6a96c11431f0be139e02ee5",
+    "build_id": "77b8b889669870279712b95aab27f09b8d7ffa41",
+    "notice_packages": [
+      "libmpg123-0t64"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libmpg123-0t64:amd64",
+        "binary_version": "1.32.5-1ubuntu1.1",
+        "source_package": "mpg123",
+        "source_version": "1.32.5-1ubuntu1.1",
+        "installed_build_id": "77b8b889669870279712b95aab27f09b8d7ffa41",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libmpg123-0t64:amd64",
+        "binary_version": "1.32.5-1ubuntu1.1",
+        "source_package": "mpg123",
+        "source_version": "1.32.5-1ubuntu1.1",
+        "installed_build_id": "77b8b889669870279712b95aab27f09b8d7ffa41",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libogg.so.0",
+    "sha256": "77105d2206425488cb61fca72e9146f7447c726f86ab860a861cd8653c7516c0",
+    "build_id": "f72b96a2d2ad7e5b6cadeb60396450fc33dca80d",
+    "notice_packages": [
+      "libogg0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libogg0:amd64",
+        "binary_version": "1.3.5-3build1",
+        "source_package": "libogg",
+        "source_version": "1.3.5-3build1",
+        "installed_build_id": "f72b96a2d2ad7e5b6cadeb60396450fc33dca80d",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libogg0:amd64",
+        "binary_version": "1.3.5-3build1",
+        "source_package": "libogg",
+        "source_version": "1.3.5-3build1",
+        "installed_build_id": "f72b96a2d2ad7e5b6cadeb60396450fc33dca80d",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libopus.so.0",
+    "sha256": "f1157143ae3d9fef50bfb396930e14372630dfb70b96ef8bd0c411a2438f1435",
+    "build_id": "b84b8f33f794e80f46723a96d878762dd556f835",
+    "notice_packages": [
+      "libopus0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libopus0:amd64",
+        "binary_version": "1.4-1build1",
+        "source_package": "opus",
+        "source_version": "1.4-1build1",
+        "installed_build_id": "b84b8f33f794e80f46723a96d878762dd556f835",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libopus0:amd64",
+        "binary_version": "1.4-1build1",
+        "source_package": "opus",
+        "source_version": "1.4-1build1",
+        "installed_build_id": "b84b8f33f794e80f46723a96d878762dd556f835",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libpulse.so.0",
+    "sha256": "207456bc8f8514601d5f5d5b6897a538fecd5da1ac301c125e895f81343ba316",
+    "build_id": "5a42eddd12bc34f26064eb65a146075cbea16a8c",
+    "notice_packages": [
+      "libpulse0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libpulse0:amd64",
+        "binary_version": "1:16.1+dfsg1-2ubuntu10.1",
+        "source_package": "pulseaudio",
+        "source_version": "1:16.1+dfsg1-2ubuntu10.1",
+        "installed_build_id": "5a42eddd12bc34f26064eb65a146075cbea16a8c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libpulse0:amd64",
+        "binary_version": "1:16.1+dfsg1-2ubuntu10.1",
+        "source_package": "pulseaudio",
+        "source_version": "1:16.1+dfsg1-2ubuntu10.1",
+        "installed_build_id": "5a42eddd12bc34f26064eb65a146075cbea16a8c",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libpulsecommon-16.1.so",
+    "sha256": "8138d6b948bf8e3fab1bcbec96f264b9f342da6b3965b23beffb92b2cd24a093",
+    "build_id": "82dfc4ce53324422f1e5b60c383afc15cea53a63",
+    "notice_packages": [
+      "libpulse0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libpulse0:amd64",
+        "binary_version": "1:16.1+dfsg1-2ubuntu10.1",
+        "source_package": "pulseaudio",
+        "source_version": "1:16.1+dfsg1-2ubuntu10.1",
+        "installed_build_id": "82dfc4ce53324422f1e5b60c383afc15cea53a63",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libsamplerate.so.0",
+    "sha256": "cf0c16dad116d92ca53b6578216e9255d45bbc0c1ae6ecf7aa34cd9210ad04c5",
+    "build_id": "1765d8d99c031afd77d30a424e18d92a8c45eccb",
+    "notice_packages": [
+      "libsamplerate0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libsamplerate0:amd64",
+        "binary_version": "0.2.2-4build1",
+        "source_package": "libsamplerate",
+        "source_version": "0.2.2-4build1",
+        "installed_build_id": "1765d8d99c031afd77d30a424e18d92a8c45eccb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libsamplerate0:amd64",
+        "binary_version": "0.2.2-4build1",
+        "source_package": "libsamplerate",
+        "source_version": "0.2.2-4build1",
+        "installed_build_id": "1765d8d99c031afd77d30a424e18d92a8c45eccb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libshaderc.so.1",
+    "sha256": "facabd1d2b5c85462b285e797e475427ec6c0e0a8bbc83302cbf1639f71a724e",
+    "build_id": "1c4779c41eaa76305cf3abb5b5d5279fc32684d2",
+    "notice_packages": [
+      "libshaderc1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libshaderc1:amd64",
+        "binary_version": "2023.8-1build1",
+        "source_package": "shaderc",
+        "source_version": "2023.8-1build1",
+        "installed_build_id": "1c4779c41eaa76305cf3abb5b5d5279fc32684d2",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libshaderc1:amd64",
+        "binary_version": "2023.8-1build1",
+        "source_package": "shaderc",
+        "source_version": "2023.8-1build1",
+        "installed_build_id": "1c4779c41eaa76305cf3abb5b5d5279fc32684d2",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libsndfile.so.1",
+    "sha256": "7d5a977e291a0ab631183d0522922b912064c7ffa35ea8b9c20c30116e889f7d",
+    "build_id": "4ce90b0bccf033903c8f4371900f227c38e7bd10",
+    "notice_packages": [
+      "libsndfile1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libsndfile1:amd64",
+        "binary_version": "1.2.2-1ubuntu5.24.04.1",
+        "source_package": "libsndfile",
+        "source_version": "1.2.2-1ubuntu5.24.04.1",
+        "installed_build_id": "4ce90b0bccf033903c8f4371900f227c38e7bd10",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libsndfile1:amd64",
+        "binary_version": "1.2.2-1ubuntu5.24.04.1",
+        "source_package": "libsndfile",
+        "source_version": "1.2.2-1ubuntu5.24.04.1",
+        "installed_build_id": "4ce90b0bccf033903c8f4371900f227c38e7bd10",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libspdlog.so.1.12",
+    "sha256": "e8e29052a16e0cad637f5c478420dd9c625abd2ef10dc57722a494acaf5c5a17",
+    "build_id": "623a82c9cd619671b46ad383316e8156b2f4dac1",
+    "notice_packages": [
+      "libspdlog1.12"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libspdlog1.12",
+        "binary_version": "1:1.12.0+ds-2build1",
+        "source_package": "spdlog",
+        "source_version": "1:1.12.0+ds-2build1",
+        "deb_sha256": "e69e315e1596b6cf97a714ae797e55d42765664a739a0b30beac35164a4edaff",
+        "archive_build_id": "623a82c9cd619671b46ad383316e8156b2f4dac1",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libstdc++.so.6",
+    "sha256": "45b129ea9b42d7333841935d2b52b2aa0c442120074bde6db8564d7f84c0922d",
+    "build_id": "753c6c8608b61d4e67be8f0c890e03e0aa046b8b",
+    "notice_packages": [
+      "libstdc++6"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libstdc++6:amd64",
+        "binary_version": "14.2.0-4ubuntu2~24.04.1",
+        "source_package": "gcc-14",
+        "source_version": "14.2.0-4ubuntu2~24.04.1",
+        "installed_build_id": "753c6c8608b61d4e67be8f0c890e03e0aa046b8b",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libstdc++6:amd64",
+        "binary_version": "14.2.0-4ubuntu2~24.04.1",
+        "source_package": "gcc-14",
+        "source_version": "14.2.0-4ubuntu2~24.04.1",
+        "installed_build_id": "753c6c8608b61d4e67be8f0c890e03e0aa046b8b",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libsystemd.so.0",
+    "sha256": "18e4522b9e349c23f015869283702bd1589fde0a1b1ff0fc1c94e0cbfded3805",
+    "build_id": "a30beaebbccd65ba2accc4b80289723e648f60fb",
+    "notice_packages": [
+      "libsystemd0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libsystemd0:amd64",
+        "binary_version": "255.4-1ubuntu8.17",
+        "source_package": "systemd",
+        "source_version": "255.4-1ubuntu8.17",
+        "installed_build_id": "a30beaebbccd65ba2accc4b80289723e648f60fb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libsystemd0:amd64",
+        "binary_version": "255.4-1ubuntu8.17",
+        "source_package": "systemd",
+        "source_version": "255.4-1ubuntu8.17",
+        "installed_build_id": "a30beaebbccd65ba2accc4b80289723e648f60fb",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libtinyxml2.so.10",
+    "sha256": "b2606e2fab56b0d117ee237d4d59619b850c6e311f4f8b0f9a0f97a2b92328a9",
+    "build_id": "a01c899b8412f350da89f758a398764718a7eeb5",
+    "notice_packages": [
+      "libtinyxml2-10"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libtinyxml2-10",
+        "binary_version": "10.0.0+dfsg-2",
+        "source_package": "tinyxml2",
+        "source_version": "10.0.0+dfsg-2",
+        "deb_sha256": "7444576728d0886cc58cee1749dc2ab5a680c1756f0a8b49c973fa0cfb180973",
+        "archive_build_id": "a01c899b8412f350da89f758a398764718a7eeb5",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libudev.so.1",
+    "sha256": "dff8947daf0c34ed0295967507afaefca1e9584d1b72c35a52c2ccfe190959fe",
+    "build_id": "9ccacf1dc70c2c33f41bc97d8e23008d2242f93f",
+    "notice_packages": [
+      "libudev1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libudev1:amd64",
+        "binary_version": "255.4-1ubuntu8.17",
+        "source_package": "systemd",
+        "source_version": "255.4-1ubuntu8.17",
+        "installed_build_id": "9ccacf1dc70c2c33f41bc97d8e23008d2242f93f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libudev1:amd64",
+        "binary_version": "255.4-1ubuntu8.17",
+        "source_package": "systemd",
+        "source_version": "255.4-1ubuntu8.17",
+        "installed_build_id": "9ccacf1dc70c2c33f41bc97d8e23008d2242f93f",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libvorbis.so.0",
+    "sha256": "43e08dedb0a53e88f754a2a1a81b6f4b80cab142bf8e4464ae142ac8f36ea9cb",
+    "build_id": "58a44b2feaebf749cc199712b9da8b0a72529304",
+    "notice_packages": [
+      "libvorbis0a"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libvorbis0a:amd64",
+        "binary_version": "1.3.7-1build3",
+        "source_package": "libvorbis",
+        "source_version": "1.3.7-1build3",
+        "installed_build_id": "58a44b2feaebf749cc199712b9da8b0a72529304",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libvorbis0a:amd64",
+        "binary_version": "1.3.7-1build3",
+        "source_package": "libvorbis",
+        "source_version": "1.3.7-1build3",
+        "installed_build_id": "58a44b2feaebf749cc199712b9da8b0a72529304",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libvorbisenc.so.2",
+    "sha256": "688791b0a209a3b0d9a65f2c04d5acf663819c0a92eab3f6c801c1fed05c5ef2",
+    "build_id": "67cedfa0ee509a0ebc075fd464e53a280ddeb400",
+    "notice_packages": [
+      "libvorbisenc2"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libvorbisenc2:amd64",
+        "binary_version": "1.3.7-1build3",
+        "source_package": "libvorbis",
+        "source_version": "1.3.7-1build3",
+        "installed_build_id": "67cedfa0ee509a0ebc075fd464e53a280ddeb400",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libvorbisenc2:amd64",
+        "binary_version": "1.3.7-1build3",
+        "source_package": "libvorbis",
+        "source_version": "1.3.7-1build3",
+        "installed_build_id": "67cedfa0ee509a0ebc075fd464e53a280ddeb400",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libvulkan.so.1",
+    "sha256": "416b71bd48e0bf7d6f9844bc12f745a438a69d4aeab94766fd319dfbf30e6c0e",
+    "build_id": "32e77fd13d177aaa6ceeba4862c3407d9246e422",
+    "notice_packages": [
+      "libvulkan1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libvulkan1:amd64",
+        "binary_version": "1.3.275.0-1build1",
+        "source_package": "vulkan-loader",
+        "source_version": "1.3.275.0-1build1",
+        "installed_build_id": "32e77fd13d177aaa6ceeba4862c3407d9246e422",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libvulkan1:amd64",
+        "binary_version": "1.3.275.0-1build1",
+        "source_package": "vulkan-loader",
+        "source_version": "1.3.275.0-1build1",
+        "installed_build_id": "32e77fd13d177aaa6ceeba4862c3407d9246e422",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libwayland-client.so.0",
+    "sha256": "2845c514722fe98e8d00d33ff3902bb090593fdd9913979afcb26f2359057a26",
+    "build_id": "4c3fb152910da1137601f54df6b41e9fced9a75a",
+    "notice_packages": [
+      "libwayland-client0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libwayland-client0:amd64",
+        "binary_version": "1.22.0-2.1build1",
+        "source_package": "wayland",
+        "source_version": "1.22.0-2.1build1",
+        "installed_build_id": "4c3fb152910da1137601f54df6b41e9fced9a75a",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libwayland-client0:amd64",
+        "binary_version": "1.22.0-2.1build1",
+        "source_package": "wayland",
+        "source_version": "1.22.0-2.1build1",
+        "installed_build_id": "4c3fb152910da1137601f54df6b41e9fced9a75a",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libwayland-cursor.so.0",
+    "sha256": "3d81d061894f2de1d53fa5f65b1590947f8a95893a9fdcd3798f98f95f63c8db",
+    "build_id": "779a97ccd2241b5eb031026b6383efd10a919005",
+    "notice_packages": [
+      "libwayland-cursor0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libwayland-cursor0:amd64",
+        "binary_version": "1.22.0-2.1build1",
+        "source_package": "wayland",
+        "source_version": "1.22.0-2.1build1",
+        "installed_build_id": "779a97ccd2241b5eb031026b6383efd10a919005",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libwayland-cursor0:amd64",
+        "binary_version": "1.22.0-2.1build1",
+        "source_package": "wayland",
+        "source_version": "1.22.0-2.1build1",
+        "installed_build_id": "779a97ccd2241b5eb031026b6383efd10a919005",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libwayland-egl.so.1",
+    "sha256": "5fa7eb7ebf71f1de8c454b4f6868c993026418dfd3054b2bef85d2c00d995369",
+    "build_id": "46c52d38873d0065836874fb6bcf57005c1a1f54",
+    "notice_packages": [
+      "libwayland-egl1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libwayland-egl1:amd64",
+        "binary_version": "1.22.0-2.1build1",
+        "source_package": "wayland",
+        "source_version": "1.22.0-2.1build1",
+        "installed_build_id": "46c52d38873d0065836874fb6bcf57005c1a1f54",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libwayland-egl1:amd64",
+        "binary_version": "1.22.0-2.1build1",
+        "source_package": "wayland",
+        "source_version": "1.22.0-2.1build1",
+        "installed_build_id": "46c52d38873d0065836874fb6bcf57005c1a1f54",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libxcb.so.1",
+    "sha256": "2c0cf5dc246a52e27bafefa69c999c040cd8a89243c372b025d68e94bdb64ff2",
+    "build_id": "16796503bce879b4d9697eb4fada10eeb6af4040",
+    "notice_packages": [
+      "libxcb1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxcb1:amd64",
+        "binary_version": "1.15-1ubuntu2",
+        "source_package": "libxcb",
+        "source_version": "1.15-1ubuntu2",
+        "installed_build_id": "16796503bce879b4d9697eb4fada10eeb6af4040",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxcb1:amd64",
+        "binary_version": "1.15-1ubuntu2",
+        "source_package": "libxcb",
+        "source_version": "1.15-1ubuntu2",
+        "installed_build_id": "16796503bce879b4d9697eb4fada10eeb6af4040",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libxkbcommon.so.0",
+    "sha256": "c51f623c09ecaca9f7e85e08db89738ae280ce3b66c237c53a31892c08b95bd7",
+    "build_id": "0a5dfb47af573e00748e742b535afc2fff458879",
+    "notice_packages": [
+      "libxkbcommon0"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libxkbcommon0:amd64",
+        "binary_version": "1.6.0-1build1",
+        "source_package": "libxkbcommon",
+        "source_version": "1.6.0-1build1",
+        "installed_build_id": "0a5dfb47af573e00748e742b535afc2fff458879",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libxkbcommon0:amd64",
+        "binary_version": "1.6.0-1build1",
+        "source_package": "libxkbcommon",
+        "source_version": "1.6.0-1build1",
+        "installed_build_id": "0a5dfb47af573e00748e742b535afc2fff458879",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libz.so.1",
+    "sha256": "57fa54de47b3467fe06117597708a4f610ac967d8448b9adc38c592a5c3f0d1a",
+    "build_id": "166b8de1ed844fd2a504cd76dc4934fc1efb6153",
+    "notice_packages": [
+      "zlib1g"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "zlib1g:amd64",
+        "binary_version": "1:1.3.dfsg-3.1ubuntu2.2",
+        "source_package": "zlib",
+        "source_version": "1:1.3.dfsg-3.1ubuntu2.2",
+        "installed_build_id": "166b8de1ed844fd2a504cd76dc4934fc1efb6153",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "zlib1g:amd64",
+        "binary_version": "1:1.3.dfsg-3.1ubuntu2.2",
+        "source_package": "zlib",
+        "source_version": "1:1.3.dfsg-3.1ubuntu2.2",
+        "installed_build_id": "166b8de1ed844fd2a504cd76dc4934fc1efb6153",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libzip.so.4",
+    "sha256": "f257024d7d0928fe61f9c817b16f98e6e99768e1fc9614a8371402d2e74fd788",
+    "build_id": "35d6b675e4c0ffc8c96a23ef60f16ff02bef2d91",
+    "notice_packages": [
+      "libzip4t64"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libzip4t64:amd64",
+        "binary_version": "1.7.3-1.1ubuntu2",
+        "source_package": "libzip",
+        "source_version": "1.7.3-1.1ubuntu2",
+        "installed_build_id": "35d6b675e4c0ffc8c96a23ef60f16ff02bef2d91",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libzip4t64:amd64",
+        "binary_version": "1.7.3-1.1ubuntu2",
+        "source_package": "libzip",
+        "source_version": "1.7.3-1.1ubuntu2",
+        "installed_build_id": "35d6b675e4c0ffc8c96a23ef60f16ff02bef2d91",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  },
+  {
+    "library": "libzstd.so.1",
+    "sha256": "be70d09198065fef49bb97d96e0255596e1fee9c8c9e2a512d9a6b104fb00883",
+    "build_id": "2eb24b0ff23c45cba38f7fdf72e16b529ddbd353",
+    "notice_packages": [
+      "libzstd1"
+    ],
+    "installed_source_metadata": [
+      {
+        "binary_package": "libzstd1:amd64",
+        "binary_version": "1.5.5+dfsg2-2build1.1",
+        "source_package": "libzstd",
+        "source_version": "1.5.5+dfsg2-2build1.1",
+        "installed_build_id": "2eb24b0ff23c45cba38f7fdf72e16b529ddbd353",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      },
+      {
+        "binary_package": "libzstd1:amd64",
+        "binary_version": "1.5.5+dfsg2-2build1.1",
+        "source_package": "libzstd",
+        "source_version": "1.5.5+dfsg2-2build1.1",
+        "installed_build_id": "2eb24b0ff23c45cba38f7fdf72e16b529ddbd353",
+        "staged_build_id_matches": true,
+        "corresponding_source_supplied": false
+      }
+    ]
+  }
+]

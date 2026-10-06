@@ -1,0 +1,12 @@
+[package]
+name = "pokemoon-native"
+version = "0.1.0"
+edition = "2024"
+publish = false
+license = "MIT"
+
+[dependencies]
+pokemon3ds-runtime = { path = "../runtime", features = ["host-audio", "native-input", "host-gamepad"] }
+env_logger = "0.11"
+
+[workspace]

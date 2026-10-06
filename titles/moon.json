@@ -1,0 +1,14 @@
+{
+  "id":"0004000000175E00", "name":"Pokémon Moon", "region":"EUR", "revision":"1.0",
+  "executable":"static-recomp-work/native-renderer/moon-target/release/pokemoon-native",
+  "input":"pokemoon/extracted/cxi/main.fully-decrypted.cxi",
+  "build_manifest":"static-recomp-work/nativeization/remove-zakuro/moon-native/Cargo.toml",
+  "native_profile":"static-recomp-work/nativeization/remove-zakuro/titles/moon.json",
+  "features":[
+    {"id":"renderer","name":"Native Renderer","description":"TriAevum PICA → NRI / Vulkan; required by Moon's independent runtime.","available":true,"configurable":true,"default":true},
+    {"id":"input","name":"Native Input","description":"PC input bridge; required by the current recomp build.","available":true,"configurable":false,"default":true},
+    {"id":"filesystem","name":"Native Filesystem","description":"Rooted native save/content storage; required by Moon's independent runtime.","available":true,"configurable":true,"default":true},
+    {"id":"audio","name":"Audio controls","description":"Native DSP and host PCM output are active; this optional control is not implemented.","available":false,"configurable":false,"default":false},
+    {"id":"compatibility","name":"Native CTR Runtime","description":"Independent CTR kernel/services and PICA frontend. No Zakuro runtime linked.","available":true,"configurable":false,"default":true}
+  ]
+}

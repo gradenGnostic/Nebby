@@ -1,0 +1,15 @@
+[package]
+name = "alpha-sapphire-native"
+version = "0.1.0"
+edition = "2024"
+publish = false
+
+[[bin]]
+name = "oras-native"
+path = "src/main.rs"
+
+[dependencies]
+pokemon3ds-runtime = { path = "../../nativeization/remove-zakuro/runtime", features = ["host-audio", "native-input", "host-gamepad"] }
+env_logger = "0.11"
+
+[workspace]

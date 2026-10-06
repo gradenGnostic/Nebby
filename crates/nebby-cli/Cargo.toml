@@ -1,0 +1,9 @@
+[package]
+name = "nebby-cli"
+version.workspace = true
+edition.workspace = true
+[dependencies]
+nebby-core.workspace = true
+nebby-desktop.workspace = true
+serde_json.workspace = true
+

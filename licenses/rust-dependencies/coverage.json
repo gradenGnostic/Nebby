@@ -1,0 +1,11 @@
+{
+  "manifest_names": [
+    "",
+    "3dsrecomp",
+    "moon-native"
+  ],
+  "lockfile_names": [],
+  "compiled_dep_info_directories": 3,
+  "unresolved": [],
+  "scope": "Dependency/source notice inventory; compiled dep-info includes stale/build-only crates, not proof of exact linked binary versions"
+}
