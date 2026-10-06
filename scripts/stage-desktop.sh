@@ -29,7 +29,7 @@ cp "$task_root/mods/catalog.json" "$task_output/mods/catalog.json"
 cp -R "$task_root/licenses/." "$task_output/licenses/"
 cp "$task_root/LICENSE" "$task_root/THIRD_PARTY_NOTICES.md" "$task_output/licenses/"
 cp "$task_root/scripts/LaunchNebby.sh" "$task_output/LaunchNebby.sh"
-# Personal-server artwork; the public candidate exporter excludes these files.
+# Bundled offline artwork and source/author provenance.
 if [ -d "$task_root/assets/steamgriddb" ]; then
     mkdir -p "$task_output/assets"
     cp -R "$task_root/assets/steamgriddb" "$task_output/assets/"

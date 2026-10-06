@@ -39,11 +39,15 @@ The native renderer/game executable are not relicensed MIT by the launcher. Conv
 Public repository/releases exclude ROMs, keys, firmware, generated recompilation C, game archives/assets, console identities and user saves. Users provide their own compatible dumps and generate game code locally. The earlier private personal-transfer ZIP is not a public release artifact.
 
 The procedural crescent/star and library hero geometry are original Nebby code
-under MIT. Optional local Cosmog branding and SteamGridDB images are not cleared
-for public redistribution. Their per-image provenance remains in the ignored
-local artwork directory. Hosting on SteamGridDB does not grant redistribution
-rights. These images must remain excluded from public repositories and packages
-unless permission is established; Pokémon characters and marks are not licensed
-by Nebby's MIT license.
+under MIT. The launcher also includes the maintainer-selected Nebby/Cosmog icon
+and SteamGridDB library artwork. Per-image source URLs and author attribution
+are retained in `assets/steamgriddb/PROVENANCE.json`. These images and Pokémon
+characters/marks are not covered by Nebby's MIT license. SteamGridDB hosting
+alone does not establish redistribution rights; the provenance records do not
+claim a license grant from the artwork owners.
 
-Current UI uses original procedural cosmic branding. Legacy bitmaps are ignored/untracked and preserved locally, not public assets. The local 3dsrecomp checkout declares MIT in Cargo.toml; see licenses/3dsrecomp/NOTICE.md for the available upstream metadata. Other components retain their own licenses. No public binary release is claimed by the source-only audit.
+The UI loads bundled artwork offline, with procedural branding as fallback.
+There is no SteamGridDB API key or online artwork lookup in the launcher.
+The local 3dsrecomp checkout declares MIT in Cargo.toml; see
+licenses/3dsrecomp/NOTICE.md for the available upstream metadata. Other
+components retain their own licenses.

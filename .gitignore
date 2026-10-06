@@ -18,8 +18,6 @@ __pycache__/
 *.zip
 *.keys
 /assets/nebby-original.jpg
-/assets/nebby.png
-/assets/steamgriddb/
 /ANDROID_PORT_STATE.md
 /workspace/**/target/
 /workspace/**/build*/

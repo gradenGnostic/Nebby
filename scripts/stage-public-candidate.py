@@ -20,7 +20,7 @@ source = args.source.resolve()
 destination = args.destination.resolve()
 if not source.is_dir() or destination.exists():
     raise SystemExit("Require existing private stage and NEW candidate directory")
-allowed = {"nebby-ui", "LaunchNebby.sh", "tools", "runtimes", "titles", "mods", "licenses", "lib", "workspace"}
+allowed = {"nebby-ui", "LaunchNebby.sh", "tools", "runtimes", "titles", "mods", "licenses", "lib", "workspace", "assets"}
 private = {"data", "target", "cache", "profiles", "savedata", "saves", "logs", "evidence", ".git", "source_imports", "source_overlays", "__pycache__"}
 forbidden = {".3ds", ".cxi", ".cci", ".cia", ".cro", ".crs", ".a", ".o", ".bin", ".keys", ".pyc"}
 bridges = {
@@ -32,6 +32,8 @@ destination.mkdir()
 count = 0
 for path in source.rglob("*"):
     relative = path.relative_to(source)
+    if relative.parts[0] == "assets" and relative.as_posix() != "assets/nebby.png" and not relative.as_posix().startswith("assets/steamgriddb/"):
+        continue
     if relative.parts[0] not in allowed or not path.is_file():
         continue
     if path.is_symlink():
